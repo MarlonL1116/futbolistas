@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sem_05_Futbolistas</string>
+    <string name="title_activity_add_futbolista">AddFutbolistaActivity</string>
+</resources>
